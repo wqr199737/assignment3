@@ -1,2 +1,4 @@
 # assignment3
 assignment3_Q1
+assignment3_Q2
+assignment3_Q3
